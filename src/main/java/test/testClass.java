@@ -12,4 +12,8 @@ public class testClass {
     public void testResettest1() {
         System.out.println("this is a testReset");
     }
+
+    public void testResettest2() {
+        System.out.println("this is a testReset2");
+    }
 }
