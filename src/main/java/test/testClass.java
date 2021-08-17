@@ -12,4 +12,8 @@ public class testClass {
         System.out.println("this is a testReset branch test1");
         System.out.println("this is a testReset branch soft");
     }
+
+    public void testResettest2() {
+        System.out.println("this is a testReset2");
+    }
 }
